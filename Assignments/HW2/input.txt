@@ -1,0 +1,1 @@
+( sum + 47 ) / total int float 45 do while first - # 
